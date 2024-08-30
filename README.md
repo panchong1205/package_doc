@@ -1,7 +1,7 @@
-# pc_packages
+# pc1205
 
-[![NPM version](https://img.shields.io/npm/v/pc_packages.svg?style=flat)](https://npmjs.org/package/pc_packages)
-[![NPM downloads](http://img.shields.io/npm/dm/pc_packages.svg?style=flat)](https://npmjs.org/package/pc_packages)
+[![NPM version](https://img.shields.io/npm/v/pc1205.svg?style=flat)](https://npmjs.org/package/pc1205)
+[![NPM downloads](http://img.shields.io/npm/dm/pc1205.svg?style=flat)](https://npmjs.org/package/pc1205)
 
 A react library developed with dumi
 

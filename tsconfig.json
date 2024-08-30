@@ -8,8 +8,8 @@
     "baseUrl": "./",
     "paths": {
       "@@/*": [".dumi/tmp/*"],
-      "pc_packages": ["src"],
-      "pc_packages/*": ["src/*", "*"]
+      "pc1205": ["src"],
+      "pc1205/*": ["src/*", "*"]
     }
   },
   "include": [".dumirc.ts", "src/**/*"]
