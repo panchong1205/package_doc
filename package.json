@@ -1,5 +1,5 @@
 {
-  "name": "pc_packages",
+  "name": "pc1205",
   "version": "0.0.1",
   "description": "A react library developed with dumi",
   "module": "dist/index.js",
